@@ -20,6 +20,10 @@ This project, a mobile application was developed, the main task was the use of G
 ## Using
 The mobile application was developed using the Android Studio IDE. To reproduce the results and compile the project, you need to download this GitHub project and build it in the Android Studio environment. If errors occur, you need to check the generated paths in the project, as well as the operation of the API maps.
 
+Demonstration screenshot from the application running on the smartphone:
+
+<a><img src="Data/demonstration-screenshot.jpg" width="300" height="600"></a>
+
 ## Documentation
 Unfortunately, detailed documentation for this project has been lost. 😭
 
